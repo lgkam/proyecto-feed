@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  margin: 0px; background-color: rgb(27, 26, 26);
+}
+header {background-color: white;padding: 5px;color: blue;
+
+}
+h1{color: red}
+main{background-color:darkblue;
+padding: 25px;
+color: red;
+width: 400px;
+margin: auto;
+}
+footer{background-color: white;color:red;padding: 10px;}
+div{margin-top: 10px;padding: 10px;border-bottom: 1px solid salmon;}
+.posteo{background-color: white;}
+.anuncio{background-color: white;}
+#foto-perfil{border-radius: 50%;width:100px;height:100px;}
+img{width: 100%;}
+
+#nombre-usuario{font-weight: bold; border-bottom: 1px solid black;
+font-family: "Noto Sans Gothic", sans-serif;
+font-size: 20px;}
+
+
+
+.noto-sans-gothic-regular {
+font-family: "Noto Sans Gothic", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+h2{text-align: center;font-size: 30px;}

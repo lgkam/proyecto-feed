@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{background-color: rgb(27, 26, 26);
+  margin: 0px;
+}
+header {background-color: #ffcad4;
+color: #fdffb6;
+padding: 5px}
+main {background-color: #e7c6ff;
+color: white;
+width: 400px;
+margin: auto;
+padding: 25px}
+footer {background-color: white;
+color: #e7c6ff;
+padding: 10px;}
+
+img{width:100%}
+div
+{ margin-top: 10px;
+padding: 10px;
+border-bottom: 1px solid #fdffb6;}
+
+.posteo{background-color: #ffcad4;}
+.anuncio{background-color: #9d8189;}
+#foto-perfil{border-radius: 50%; 
+width: 100px; height: 100px;}
+
+#nombre-usuario{font-weight: auto;
+ border-bottom: 1px solid white;
+ font-size: 20px;
+                font-family: "Lobster", serif;
+}
+h2 {text-align: center;
+font-size: 30px;
+   font-family: "Lexend", sans-serif;
+   font-optical-sizing: auto;
+   }
+
+.lexend-<uniquifier> {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+p{font-family: "Lexend", sans-serif;}
+

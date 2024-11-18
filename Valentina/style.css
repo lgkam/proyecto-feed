@@ -1,0 +1,24 @@
+
+*{ box-sizing: border-box; font-family: sans-serif; }
+ body{ margin: 0px; background-color: rgb(27, 26, 26) } 
+ header{background-color: rgb(79, 101, 161); color: black; padding: 5px}
+  main{background-color: rgb(109, 126, 173); color: black; width: 400px; margin: auto; padding: 25px} 
+  footer{background-color: rgb(79, 101, 161); color:black; padding: 10px} 
+  div{ padding: 10px; margin-top: 10px; border-bottom: 1px solid blue; }
+   .posteo{background-color: rgb(167, 167, 230)} 
+   .anuncio{background-color: rgb(98, 98, 241) } 
+   #foto-perfil{border-radius: 50%; width: 100px; height: 100px;}
+    img{width: 100%}
+     #nombre-usuario{ font-weight: bold; border-bottom: 1px solid black; font-size: 20px; text-align: center;  } 
+     h2{ text-align: center ;font-size: 30px;
+        font-family: "Sour Gummy", sans-serif;
+    }
+
+
+ // <uniquifier>: Use a unique and descriptive class name // <weight>: Use a value from 400 to 700 .edu-au-vic-wa-nt-pre-<uniquifier>
+  { font-family: "Edu AU VIC WA NT Pre", cursive; font-optical-sizing: auto; font-weight: <weight>; font-style: normal; }
+
+h3{text-align: center;}
+
+h1{  font-family: "Rouge Script", cursive;
+   text-align: center;  }

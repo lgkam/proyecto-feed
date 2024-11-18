@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{background-color: rgb(27, 26, 26);
+  margin: 0px;
+}
+header{background-color: #a30041; color: azure; padding: 5px;}
+main{background-color: red; color: black; width: 400px; margin: auto; padding: 25px;}
+footer{background-color: red; color: black; padding: 10px;}
+div{margin-top: 10px ; padding: 10px; border-bottom: 1px solid cadetblue;}
+.posteo{background-color: red (255, 0, 0)}
+.anuncio{background-color: rgb(255, 0, 0) }
+#foto-perfil{border-radius: 50%;
+width: 100px;
+height: 100px;}
+
+img{width: 100%}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.lobster-regular {
+font-family: "Lobster", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+#nombre-usuario{font-family: "Lobster", serif; font-weight:   bold; border-bottom: 1px solid black; font-size: 20px; }
+h2{font-size: 30px ; text-align: center;}

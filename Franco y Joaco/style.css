@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  margin: 0px;     
+  background-color:rgb(27, 26, 26)
+}
+header {background-color: rgb(27, 26, 26) ;    color: blueviolet   ; padding : 5px 
+}
+main    {background-color: #006eff  ; color: rgb(109, 53, 177)  ; width: 400px  ;   margin: auto;   padding: 25px}
+
+  footer {background-color: #ae00ff;  color: chocolate;  padding:  10px}
+div {margin-top: 10px; padding: 10px;
+border-bottom: 1px solid palegoldenrod; }
+.posteo {background-color: antiquewhite;}
+.anuncio {background-color: yellow;}
+#foto-perfil  { border-radius:50%; width: 100px; height: 100px}
+
+img {width:  100%;}
+#nombre-usuario {border-bottom: 1px solid black;font-weight: bold; font-size:20px; font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&display=swap" rel="stylesheet">;}
+
+h2 {text-align: center;font-size: 30px;
+}
